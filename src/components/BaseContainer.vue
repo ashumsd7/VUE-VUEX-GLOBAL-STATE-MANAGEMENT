@@ -15,8 +15,12 @@ export default {
 section {
   max-width: 30rem;
   margin: 2rem auto;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  box-shadow: 4px 8px 16px rgba(27, 99, 253, 0.26);
+  border-radius: 10px;
+  border: .5px dashed black;
   padding: 1rem;
+  text-align: center;
+  align-items: center;
 }
 
 h2 {
